@@ -18,8 +18,7 @@
     <string name="recipe_edit_title">Rediger oppskrift</string>
     <string name="recipe_add_new_title">Opprett oppskrift</string>
     <string name="recipe_details_automation_dialog_title">Direkte lenke</string>
-    <string name="recipe_details_automation_dialog_text">"Bruk denne lenken til å gå direkte til oppskriften. Skriv det til en NFC tag eller opprett en automatiseringsoppgave i Tasker for å gjøre morgenkaffen ritualen enklere.
-ADVARSEL: Det er ikke mulig å dele oppskriften slik!"</string>
+    <string name="recipe_details_automation_dialog_text">Bruk denne lenken til å gå direkte til oppskriften. Skriv det til en NFC tag eller opprett en automatiseringsoppgave i Tasker for å gjøre morgenkaffen ritualen enklere.\nADVARSEL: Det er ikke mulig å dele oppskriften slik!</string>
     <string name="timer_progress_weight">%1$sg/%2$sg</string>
     <string name="timer_step_name_time">%1$s (%2$ss)</string>
     <string name="button_cancel">Avbryt</string>
@@ -65,10 +64,7 @@ Temperatur: desto varmere, desto bedre (spesielt for mer lysbrent kaffe)"</strin
     <string name="prepopulate_step_stir_crust">Rør gruten</string>
     <string name="prepopulate_step_scoop_coffee">Øs opp skummen og kaffe bitene fra toppen</string>
     <string name="prepopulate_frenchPress_name">Presskanne</string>
-    <string name="prepopulate_frenchPress_description">"Oppskrift av: James Hoffmann
-Kilde: https://youtu.be/st571DYYTR8
-Kvernstørrelse: middels
-Kaffen er klar 5 minutter etter det siste steget, men smaken blir bedre og bedre desto lenger man venter</string>
+    <string name="prepopulate_frenchPress_description">Oppskrift av: James Hoffmann\nKilde: https://youtu.be/st571DYYTR8\nKvernstørrelse: middels\nKaffen er klar 5 minutter etter det siste steget, men smaken blir bedre og bedre desto lenger man venter</string>
     <string name="hoffmann_credits_title">Standard oppskrifter av James Hoffmann</string>
     <string name="hoffmann_credits_subtitle">Gå til hans Youtube kanal</string>
     <string name="prepopulate_chemex_name">Chemex</string>
