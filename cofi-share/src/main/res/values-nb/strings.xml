@@ -52,10 +52,7 @@
     <string name="step_add_remove">Fjern</string>
     <string name="timer_enjoy">Kos deg med kaffen</string>
     <string name="prepopulate_v60_name">Den Ultimate V60en</string>
-    <string name="prepopulate_v60_description">"Oppskrift av: James Hoffmann
-Kilde: https://youtu.be/AI4ynXzkSQo
-Kvernstørrelse: middels fin
-Temperatur: desto varmere, desto bedre (spesielt for mer lysbrent kaffe)"</string>
+    <string name="prepopulate_v60_description">Oppskrift av: James Hoffmann\nKilde: https://youtu.be/AI4ynXzkSQo\nKvernstørrelse: middels fin\nTemperatur: desto varmere, desto bedre (spesielt for mer lysbrent kaffe)</string>
     <string name="prepopulate_step_coffee">Tilsett kaffe</string>
     <string name="prepopulate_step_water">Tilsett vann</string>
     <string name="prepopulate_step_swirl">Virvel</string>
