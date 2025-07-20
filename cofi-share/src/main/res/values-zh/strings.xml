@@ -51,10 +51,7 @@
     <string name="step_add_remove">移除</string>
     <string name="timer_enjoy">享受你的咖啡吧</string>
     <string name="prepopulate_v60_name">终极 V60</string>
-    <string name="prepopulate_v60_description">"食谱创建者：詹姆斯·霍夫曼
-Source: https://youtu.be/AI4ynXzkSQo
-研磨尺寸：中细
-温度：越热越好（尤其是较轻的烘烤）"</string>
+    <string name="prepopulate_v60_description">食谱创建者：詹姆斯·霍夫曼\nSource: https://youtu.be/AI4ynXzkSQo\n研磨尺寸：中细\n温度：越热越好（尤其是较轻的烘烤）</string>
     <string name="prepopulate_step_coffee">添加咖啡</string>
     <string name="prepopulate_step_water">添加水</string>
     <string name="prepopulate_step_swirl">旋动</string>
