@@ -4,7 +4,7 @@
     <string name="step_add_name">Ім’я</string>
     <string name="step_add_duration">Тривалість (с)</string>
     <string name="step_add_weight">Вага (г)</string>
-    <string name="recipe_unsaved_text">Ви хочете їх викинути\?</string>
+    <string name="recipe_unsaved_text">Ви хочете їх відхилити?</string>
     <string name="recipe_delete_title">Ви впевнені\?</string>
     <string name="recipe_edit_description_button">Додати опис</string>
     <string name="recipe_details_automation_dialog_text">Скористайтеся цим посиланням, щоб перейти безпосередньо до цього рецепту. Запишіть його в теґ NFC або створіть завдання автоматизації в Tasker, щоб полегшити ранкову каву.
@@ -16,7 +16,7 @@
     <string name="button_discard">Відхилити</string>
     <string name="snackbar_copied">Скопійовано!</string>
     <string name="settings_pip_item">Картинка в картинці</string>
-    <string name="settings_step_sound_item">Крок зміни звуку</string>
+    <string name="settings_step_sound_item">Зміна звуку кроку</string>
     <string name="settings_bug_item">Повідомити про помилку або запропонувати функцію</string>
     <string name="settings_combine_weight_item">Комбінована вага</string>
     <string name="settings_combine_weight_water">Об\'єднувати тільки вагу води</string>
@@ -105,7 +105,7 @@
     <string name="recipe_clone_suffix">%1$s - Копіювати</string>
     <string name="step_add_duration_explainer">Тривалість кроку визначає, скільки часу триватиме дія (в секундах). Залиште порожнім, щоб призупинити рецепт до готовності.</string>
     <string name="settings_restore">Відновлення</string>
-    <string name="settings_step_vibrate_item">Крок зміни вібрації</string>
+    <string name="settings_step_vibrate_item">Вібрувати при зміні кроку</string>
     <string name="recipe_details_multiply_time">Множник часу</string>
     <string name="name_grinder">Кавомолка</string>
     <string name="name_cezve">Джезва</string>
@@ -159,4 +159,5 @@
     <string name="notification_action_continue">Продовжити</string>
     <string name="settings_background_timer_item">Дозволити таймеру працювати у фоновому режимі</string>
     <string name="button_no">Ні</string>
+    <string name="settings_appearance_item">Зовнішній вигляд</string>
 </resources>
