@@ -157,4 +157,5 @@
     <string name="settings_background_timer_item">Autoriser la minuterie en arrière-plan</string>
     <string name="button_no">Non</string>
     <string name="settings_translate_item">Aidez à traduire Cofi</string>
+    <string name="settings_appearance_item">Apparence</string>
 </resources>
