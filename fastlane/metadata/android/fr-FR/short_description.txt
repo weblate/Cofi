@@ -1,1 +1,1 @@
-Minuteur pour café open-source. Interface facile d'utilisation.
+Minuteur pour café à code ouvert. Interface facile d'utilisation !
