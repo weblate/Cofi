@@ -155,4 +155,5 @@
     <string name="name_tea">Tea</string>
     <string name="name_cup">Csésze</string>
     <string name="support_dialog_body">Nagyon hálás lennék a támogatásodért! Segíthet folytatni azt, amit szeretek, ha választ egyet vagy többet az alábbiak közül.</string>
+    <string name="settings_appearance_item">Kinézet</string>
 </resources>
