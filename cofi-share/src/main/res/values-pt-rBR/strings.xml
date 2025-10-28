@@ -81,9 +81,9 @@
     <string name="settings_backup">Backup</string>
     <string name="support_dialog_github">Curta o Cofi no GitHub</string>
     <string name="support_dialog_kofi">Compre-me um café</string>
-    <string name="recipe_details_automation_dialog_text">Use este link para ir diretamente para esta receita. Escreva isto em uma tag NFC ou crie uma tarefa de automação no Tasker para facilitar seu café da manhã. \nATENÇÃO: Você não pode compartilhar receitas desta forma!</string>
+    <string name="recipe_details_automation_dialog_text">Use este link para ir diretamente para esta receita. Escreva isto em uma tag NFC ou crie uma tarefa de automação no Tasker para facilitar seu café da manhã.\nATENÇÃO: Você não pode compartilhar receitas desta forma!</string>
     <string name="settings_licenses_item">Agradecimentos</string>
-    <string name="prepopulate_v60_description">Receita criada por: James Hoffmann \nFonte: https://youtu.be/AI4ynXzkSQo \nTamanho da moagem: médio fino \nTemperatura: quanto mais quente, melhor (principalmente em assados mais leves)</string>
+    <string name="prepopulate_v60_description">Receita criada por: James Hoffmann \nFonte: https://youtu.be/AI4ynXzkSQo \nMoagem: médio fino \nTemperatura: quanto mais quente, melhor (principalmente em torras mais claras)</string>
     <string name="prepopulate_v60_1cup_description">Receita criada por: James Hoffmann
 \nFonte: https://youtu.be/1oB1oDrDkHM
 \nAntes de começar, aqueça o V60 colocando o papel dentro do cone e despejando água quente sobre o papel. Isso pré-aquece o V60 e prepara o papel para o processo de fermentação.
@@ -112,10 +112,10 @@
     <string name="name_grinder">Moedor de café</string>
     <string name="prepopulate_step_stir_crust">Mexa a crosta</string>
     <string name="prepopulate_step_scoop_coffee">Retire a espuma e os pedaços de café de cima</string>
-    <string name="prepopulate_aero_description">Receita criada por: James Hoffmann \nFonte: https://youtu.be/j6VlT_jUVPc \nTamanho da moagem: Para torra leve – final mais fino do médio. Quanto mais escuro você fica, mais você pode preferir aumentar a dose e tornar a moagem mais grossa \nTemperatura: Para assado leve – deixe ferver e use imediatamente. Para assados escuros – 85–90℃</string>
+    <string name="prepopulate_aero_description">Receita criada por: James Hoffmann \nFonte: https://youtu.be/j6VlT_jUVPc \nMoagem: Para torras claras, use as primeiras regulagens do nível médio. Quanto mais escura a torra, mais você pode tentar aumentar a dose e engrossar a moagem \nTemperatura: Para torras claras, deixe ferver e use imediatamente. Para torras escuras – entre 85 e 90℃</string>
     <string name="prepopulate_clever_dripper_step_break_crust">Quebre a crosta mexendo ou agitando um pouco</string>
     <string name="prepopulate_clever_dripper_step_draw_down">Coloque em cima do copo e deixe-o descer totalmente</string>
-    <string name="prepopulate_clever_dripper_description">Receita criada por: James Hoffmann \nFonte: https://youtu.be/RpOdennxP24 \nTamanho da moagem: Médio-fino \nTemperatura: deixe ferver e use imediatamente \nProporção: 1:16,67 ou 15g a 250mL \nDobre o filtro ao longo de ambas as costuras para que caiba melhor dentro da cafeteira \nA quantidade máxima de água é 500mL, mas recomenda-se 400 ou menos</string>
+    <string name="prepopulate_clever_dripper_description">Receita criada por: James Hoffmann \nFonte: https://youtu.be/RpOdennxP24 \nMoagem: Médio-fino \nTemperatura: Deixe a água ferver e use imediatamente \nProporção: 1:16,67 ou 15g para 250mL \nDobre o filtro ao longo de ambas as costuras para que caiba melhor dentro do suporte \nA quantidade máxima de água é 500mL, mas recomenda-se utilizar 400 ou menos</string>
     <string name="infoBox_wearOS_body">Baixe o aplicativo Cofi para o seu relógio WearOS!</string>
     <string name="prepopulate_chemex_description">Receita criada por: James Hoffmann 
 \nFonte: https://youtu.be/ikt-X5x7yoc
@@ -144,4 +144,5 @@
     <string name="settings_step_vibrate_item">Vibração da mudança de passo</string>
     <string name="prepopulate_v60_1cup_name">1 copo de V60</string>
     <string name="support_dialog_body">Eu apreciaria muito o seu apoio! Você pode me ajudar a continuar fazendo o que amo escolhendo uma ou mais das seguintes opções.</string>
+    <string name="settings_appearance_item">Aparência</string>
 </resources>
