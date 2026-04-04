@@ -155,4 +155,5 @@
     <string name="recipe_detials_notification_dialog_text">Cofi laat de wekker op de achtergrond doorlopen, maar daarvoor moet je toegang tot meldingen geven</string>
     <string name="button_no">Nee</string>
     <string name="settings_background_timer_item">Achtergrondwekker toestaan</string>
+    <string name="settings_appearance_item">Vormgeving</string>
 </resources>

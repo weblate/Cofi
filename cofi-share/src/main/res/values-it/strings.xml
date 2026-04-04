@@ -38,10 +38,7 @@
     <string name="step_add_remove">Rimuovi</string>
     <string name="timer_enjoy">Goditi il caffè</string>
     <string name="prepopulate_v60_name">V60</string>
-    <string name="prepopulate_v60_description">"Ricetta creata da: James Hoffmann
-Fonte: https://youtu.be/AI4ynXzkSQo
-Granulometria: medio fine
-Temperatura: più è calda, meglio è (soprattutto con arrosti più leggeri)"</string>
+    <string name="prepopulate_v60_description">Ricetta creata da: James Hoffmann\nFonte: https://youtu.be/AI4ynXzkSQo\nGranulometria: medio fine\nTemperatura: più è calda, meglio è (soprattutto con arrosti più leggeri)</string>
     <string name="prepopulate_step_coffee">Aggiungi caffè</string>
     <string name="prepopulate_step_water">Aggiungi acqua</string>
     <string name="prepopulate_step_swirl">Gira</string>

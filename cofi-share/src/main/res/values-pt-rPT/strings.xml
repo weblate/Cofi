@@ -132,4 +132,5 @@
     <string name="notification_action_stop">Parar</string>
     <string name="notification_action_pause">Pausa</string>
     <string name="support_dialog_body">Eu agradeceria imenso o seu apoio! Pode ajudar-me a continuar o que eu mais gosto de fazer, escolhendo uma ou mais das seguintes opções.</string>
+    <string name="settings_appearance_item">Aparência</string>
 </resources>

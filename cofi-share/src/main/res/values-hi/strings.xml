@@ -2,13 +2,13 @@
 <resources>
     <string name="step_type_add_coffee">कॉफ़ी डालिये</string>
     <string name="step_type_water">पानी डालिये</string>
-    <string name="step_type_wait">ठहरिये</string>
+    <string name="step_type_wait">इंतजार कीजिए</string>
     <string name="step_type_other">अन्य</string>
     <string name="step_add_name">नाम</string>
     <string name="step_add_duration">समय (से)</string>
     <string name="step_add_weight">वजन (ग्रा)</string>
     <string name="step_add_save">सहेजें</string>
-    <string name="recipe_unsaved_title">आपके पास सहेजे नहीं गए परिवर्तन हैं</string>
+    <string name="recipe_unsaved_title">आपने अभी परिवर्तन सहेजे नहीं हैं</string>
     <string name="recipe_unsaved_text">क्या आप उन्हें छोड़ना चाहते हैं?</string>
     <string name="recipe_delete_title">क्या आप निश्चित हैं?</string>
     <string name="recipe_delete_text">इससे यह नुस्खा स्थायी रूप से हट जाएगा</string>
@@ -17,14 +17,14 @@
     <string name="recipe_edit_description_button">विवरण जोड़ें</string>
     <string name="recipe_edit_title">नुस्खा संपादित करें</string>
     <string name="recipe_add_new_title">नया नुस्खा बनाएं</string>
-    <string name="recipe_details_automation_dialog_title">सीदा संबद्ध</string>
+    <string name="recipe_details_automation_dialog_title">सीधा संबद्ध</string>
     <string name="recipe_details_automation_dialog_text">इस नुस्खे में सीधे जाने के लिए इस लिंक का उपयोग करें। अपनी सुबह की कॉफी को आसान बनाने के लिए इसे NFC टैग में लिखें या Tasker ऍप में ऑटोमेशन टास्क बनाएं।
 \nचेतावनी: आप इस तरह नुस्खा बाँट नहीं सकते!</string>
     <string name="timer_progress_weight">%1$sg/%2$sg</string>
     <string name="timer_step_name_time">%1$s (%2$ss)</string>
     <string name="button_cancel">रद्द करें</string>
     <string name="button_delete">मिटाये</string>
-    <string name="button_discard">रद्द करें</string>
+    <string name="button_discard">निरस्त करें</string>
     <string name="button_continue_editing">बदलाव जारी रखे</string>
     <string name="button_copy">कॉपी</string>
     <string name="snackbar_copied">प्रतिलिपि बनाई गई!</string>
@@ -38,7 +38,7 @@
     <string name="settings_combine_weight_all">सारे वजन मिलाएं</string>
     <string name="settings_combine_weight_water">सिर्फ पानी का वजन मिलाएं</string>
     <string name="settings_combine_weight_none">कोई वजन ना मिलाएं</string>
-    <string name="settings_about_title">बारे में</string>
+    <string name="settings_about_title">हमारे बारे में</string>
     <string name="settings_licenses_item">अभिस्वीकृतियाँ</string>
     <string name="settings_github_item">Github रिपॉजिटरी</string>
     <plurals name="settings_snackbar_backup">
@@ -52,7 +52,7 @@
     <string name="button_show">दिखाए</string>
     <string name="step_add_remove">हटाएँ</string>
     <string name="timer_enjoy">अपनी कॉफी का आनंद लें</string>
-    <string name="prepopulate_v60_name">Ultimate V60</string>
+    <string name="prepopulate_v60_name">अल्टीमेट V60</string>
     <string name="prepopulate_v60_description">नुस्खा बनाने वाले : जेम्स हॉफमन
 \nस्रोत: https://youtu.be/AI4ynXzkSQo
 \nपीसने का आकार: मध्यम छोटा
@@ -106,12 +106,12 @@
     <string name="infoBox_wearOS_body">अपनी WearOS घड़ी के लिए Cofi ऐप डाउनलोड करें!</string>
     <string name="settings_sync_with_phone">फोन से सेटिंग्स प्राप्त करें</string>
     <string name="name_grinder">कॉफी ग्राइंडर</string>
-    <string name="name_vietnamese_press">Phin Filter</string>
+    <string name="name_vietnamese_press">फिन फ़िल्टर</string>
     <string name="name_mokapot">मोका पॉट</string>
     <string name="name_espresso">Espresso मशीन</string>
     <string name="name_cold_brew">कोल्ड ब्रू</string>
     <string name="name_siphon">साइफन</string>
-    <string name="name_cezve">Cezve</string>
+    <string name="name_cezve">सेज़वे(कॉफी का बर्तन)</string>
     <string name="name_cup">कप</string>
     <string name="support_dialog_title">क्या आप Cofi ऐप का आनंद ले रहे हैं?</string>
     <string name="support_dialog_body">मैं आपके समर्थन की बहुत सराहना करूंगा! आप निम्नलिखित में से एक या अधिक चुनकर मुझे वह काम जारी रखने में मदद कर सकते हैं जो मुझे पसंद है।</string>
@@ -156,4 +156,5 @@
     <string name="name_drip">टपक</string>
     <string name="recipe_details_read_description">विवरण पढ़ें</string>
     <string name="recipe_details_recipeRatio">नुस्खा अनुपात: 1:%1$s</string>
+    <string name="settings_appearance_item">प्रदर्शन</string>
 </resources>

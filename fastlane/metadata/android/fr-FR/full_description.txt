@@ -5,10 +5,10 @@ Je sais à quel point il est important d'avoir un contrôle complet sur son temp
 - Open-source et utilisation gratuite
 - Pas de limites artificielles sur ce que vous pouvez ajouter sur l'app
 - Minuteur pour vos infusions de café
-- Minuteurs customisables selon la méthode d'infusion
+- Minuteurs personnalisables selon la méthode d'infusion
 - Interface facile à utiliser avec un design épuré
-- Mode image-dans-l'image pour multitâcher
+- Mode image-dans-l'image pour le multitâche
 - application Wear OS for une meilleure gestion du temps sur votre montre
 - Aucun suivi des utilisateurs ou de collectage d'information
 
-Je sais à quel point il est frustrant de se contenter d'un café médiocre. C'est pour cela que je veux vous aider à faire votre café comme des professionnels et apprécier votre café à chaque fois. Télécharger Cofi now et commencer votre voyage vers le café parfait!
+Je sais à quel point il est frustrant de se contenter d'un café médiocre. C'est pour cela que je veux vous aider à faire votre café comme des professionnels et apprécier votre café à chaque fois. Télécharger Cofi now et commencer votre voyage vers le café parfait !
