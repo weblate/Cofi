@@ -152,4 +152,5 @@
     <string name="settings_background_timer_item">Timer im Hintergrund erlauben</string>
     <string name="name_drip">Tropfen</string>
     <string name="prepopulate_clever_dripper_step_draw_down">Oben auf die Tasse legen und ganz nach unten ziehen lassen</string>
+    <string name="settings_appearance_item">Aussehen</string>
 </resources>
